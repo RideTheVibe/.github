@@ -7,5 +7,8 @@ Official Website: www.ridethevibe.io
 Engineering Docs: www.ridethevibe.io/docs
 
 
+![poster](https://github.com/RideTheVibe/.github/blob/main/assets/vibe-horizontal-poster-blackBorder.png)
+
+
 ### Get in touch
 If you are interested in following this project further, meet other makers and share knowledge you can join the [Vibe Discord channel.](https://discord.gg/63dxeuhfvk)
