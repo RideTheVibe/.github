@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[work in progress - coming soon. Please check back in a few weeks!]
+_(work in progress - coming soon. Please check back in a few weeks!)_
+
+
 Welcome to the official repository collection for **Vibe - The One Wheel Self Balancing E-Bike**. Here you can find all the code and hardware files you will need to build your own Vibe.
 
 Official Website: www.ridethevibe.io
