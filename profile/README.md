@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the official repository collection for Vibe - The Open-Source Self Balancing One Wheel E-Bike. Here you can find all the code and hardware files you will need to build your own Vibe.
+Welcome to the official repository collection for **Vibe - The One Wheel Self Balancing E-Bike**. Here you can find all the code and hardware files you will need to build your own Vibe.
 
 Official Website: www.ridethevibe.io
 
